@@ -1,0 +1,5 @@
+#!/bin/sh
+#
+# SPDX-License-Identifier: GPL-3.0-or-later
+
+exec xdg-open /usr/share/doc/arch-wiki/html/en/Installation_guide.html
