@@ -126,8 +126,9 @@ inter-font
 ttf-nerd-fonts-symbols
 git
 dunst
+libnotify
 zathura
-zathura-pdf-mupdf
+zathura-pdf-poppler
 alacritty
 qutebrowser
 qt6-wayland
@@ -138,6 +139,7 @@ mpv
 pulsemixer
 acpi
 pipewire-pulse
+pipewire-jack
 sof-firmware
 btop
 wavemon
@@ -154,14 +156,16 @@ playerctl
 jq
 yt-dlp
 ripgrep
-netcat
+openbsd-netcat
 fastfetch
 cloc
 elinks
 gomuks
 ocean-sound-theme
+libcanberra
 base-devel
 niri
+xdg-desktop-portal-gnome
 fuzzel
 swaylock
 swayidle

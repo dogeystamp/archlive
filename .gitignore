@@ -3,3 +3,6 @@ airootfs/home/julius/*
 airootfs/home/julius/.config/*
 !airootfs/home/julius/.config/chezmoi
 airootfs/home/julius/.config/chezmoi/chezmoistate.boltdb
+
+out/
+work/
