@@ -157,6 +157,7 @@ jq
 yt-dlp
 ripgrep
 openbsd-netcat
+socat
 fastfetch
 cloc
 elinks
