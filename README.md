@@ -8,8 +8,8 @@ The live system includes a graphical environment with the [Niri](https://github.
 The custom desktop environment is intended to be a comfortable experience specifically for myself.
 However, you can inspire yourself from `add_dotfiles.sh`, `bootstrap_packages.x86_64` and `airootfs` to
 make an archiso image that uses your own dotfiles.
-I recommend that you [create an image](https://wiki.archlinux.org/title/Archiso#Prepare_a_custom_profile)
-from scratch to avoid the modifications I've made.
+I recommend that you [create an archiso profile](https://wiki.archlinux.org/title/Archiso#Prepare_a_custom_profile)
+from scratch to avoid being hindered by my modifications.
 
 ## installation
 
