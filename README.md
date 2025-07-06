@@ -19,7 +19,7 @@ If you are on a different distribution, consider using [portable archiso](https:
 an older project of mine,
 or simply use the [default Arch Linux ISO](https://archlinux.org/download/) that is not customized.
 
-+ Install the `archiso` package on your system.
++ Install the `archiso` and `chezmoi` packages on your system.
 
 + Run the `build.sh` script,
     which first downloads the dotfiles from GitHub using [chezmoi](https://www.chezmoi.io/),
