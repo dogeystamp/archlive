@@ -1,4 +1,5 @@
 airootfs/home/julius/*
+!airootfs/home/julius/README.txt
 !airootfs/home/julius/.config
 airootfs/home/julius/.config/*
 !airootfs/home/julius/.config/chezmoi
