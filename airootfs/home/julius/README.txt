@@ -83,7 +83,7 @@ EXPAND MEMORY DISK SIZE
 INSTALL PACKAGES WITH PACMAN
 	Using pacman requires a network connection. By default, the package index
 	is not included on disk, so you can not install packages, or search for
-	pacakges. To download the index, run
+	packages. To download the index, run
 		
 		pacman -Sy
 
