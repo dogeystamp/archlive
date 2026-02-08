@@ -6,4 +6,4 @@ PRIV=run0
 set -e
 
 . ./add_dotfiles.sh
-run0 mkarchiso -v .
+$PRIV mkarchiso -v .
