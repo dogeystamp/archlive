@@ -1,4 +1,6 @@
-# vim: set ft=toml:mode = "symlink"
+# vim: set ft=toml:
+
+mode = "symlink"
 
 [data]
 systemprofile = "MINIMAL"
