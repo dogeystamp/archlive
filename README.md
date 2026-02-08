@@ -39,7 +39,8 @@ or use the [default Arch Linux ISO](https://archlinux.org/download/) that is not
 After [booting from the USB](https://wiki.archlinux.org/title/Installation_guide#Boot_the_live_environment),
 you will be presented with the Niri window manager.
 If you do not know the keyboard shortcuts,
-press `Alt-Shift-/` (alt, question mark) to get help.
+press `Alt-Shift-/` (alt, question mark) to get help
+or click the life-ring icon in the status bar.
 For more information about using the live system,
 start a terminal (`Alt-Shift-Enter`) and open README.txt:
 
