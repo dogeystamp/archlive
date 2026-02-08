@@ -17,7 +17,7 @@ The following steps explain how to create a live USB using this image.
 You should be on Arch Linux to run `archiso`.
 If you are on a different distribution, consider using [portable archiso](https://github.com/dogeystamp/archiso-portable),
 an older project of mine,
-or simply use the [default Arch Linux ISO](https://archlinux.org/download/) that is not customized.
+or use the [default Arch Linux ISO](https://archlinux.org/download/) that is not customized.
 
 + Install the `archiso` and `chezmoi` packages on your system.
 
