@@ -6,6 +6,7 @@ mode = "file"
 systemprofile = "MINIMAL"
 email = "julius@example.com"
 fullname = "Julius Lucius Balbus"
+filemode = "file"
 opacity = "1.0"
 
 # theme: base16 grayscale light (Alexandre Gavioli (https://github.com/Alexx2/)
